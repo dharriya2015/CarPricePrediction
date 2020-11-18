@@ -1,3 +1,22 @@
+absl-py @ file:///C:/ci/absl-py_1603893176799/work
+aiohttp @ file:///C:/ci/aiohttp_1602530358780/work
+alabaster==0.7.12
+argh==0.26.2
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596828549974/work
+astor==0.8.1
+astroid @ file:///C:/ci/astroid_1592481955828/work
+async-generator==1.10
+async-timeout==3.0.1
+atomicwrites==1.4.0
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+autopep8 @ file:///tmp/build/80754af9/autopep8_1596578164842/work
+Babel @ file:///tmp/build/80754af9/babel_1605108370292/work
+backcall==0.2.0
+bcrypt @ file:///C:/ci/bcrypt_1597918112552/work
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1596822027882/work
 certifi==2020.6.20
 cffi @ file:///C:/ci/cffi_1600699250966/work
 chardet==3.0.4
@@ -146,3 +165,6 @@ Werkzeug==0.16.1
 win-inet-pton==1.1.0
 wincertstore==0.2
 wrapt==1.11.2
+yapf @ file:///tmp/build/80754af9/yapf_1593528177422/work
+yarl @ file:///C:/ci/yarl_1602679793616/work
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
